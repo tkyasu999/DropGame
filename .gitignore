@@ -1,0 +1,5 @@
+__pycache__/
+build/
+dist/
+DropGame.spec
+.DropGame.spec
